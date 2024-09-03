@@ -1,0 +1,17 @@
+
+-----------------------------------------------------------------------------------------------
+* You just have to guess the letters that the given word is consist of.
+
+* For multiplayer, there are two modes.
+
+  -Mode 1:
+    Each player will get a complete turn like single player game. Then after everyone's turn, 
+    the player that used the least percentage of guesses will win.
+
+  -Mode 2:
+    It can only be played between two players. Each player will take turn in guessing the next 
+    letter for the word. The player that guesses the last letter wins.
+
+* There are 5 levels in this game, starting from Level 1 to Level 5. Where, Level 1 being the
+  easiest and Level 5 being the toughest.
+-----------------------------------------------------------------------------------------------

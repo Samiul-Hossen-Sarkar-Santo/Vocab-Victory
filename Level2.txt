@@ -1,0 +1,9 @@
+CLOCK Time measuring device
+PENGUIN A flightless bird
+ELEPHANT The largest land animal
+AIRPORT A place where airplanes take off and land
+GUITAR A stringed musical instrument
+POPCORN A snack made from corn
+BANANA A long, curved fruit with yellow skin
+PEACOCK A colorful bird with fancy long feathers
+VIOLIN A stringed musical instrument played with a bow
