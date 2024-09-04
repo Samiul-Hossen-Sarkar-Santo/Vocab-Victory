@@ -58,4 +58,3 @@ This project was developed as part of a group assignment to demonstrate proficie
 ---
 
 Feel free to reach out with any questions or feedback about **Vocab Victory**!
-```
