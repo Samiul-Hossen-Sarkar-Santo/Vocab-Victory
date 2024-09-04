@@ -46,9 +46,9 @@ This project was developed as part of a group assignment to demonstrate proficie
 
 ## Contributors
 
-- **Santo** - Project Lead
-- **[Nishat Tasneem]** - Developer
-- **[Md. Nazmus Sazzad Naiem]** - Developer
+- **Samiul Hossen Sarkar Santo** - Project Lead
+- **Nishat Tasneem** - Developer
+- **Md. Nazmus Sazzad Naiem** - Developer
 
 ## Acknowledgments
 
