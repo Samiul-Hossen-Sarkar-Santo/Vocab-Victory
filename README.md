@@ -52,7 +52,7 @@ This project was developed as part of a group assignment to demonstrate proficie
 
 ## Acknowledgments
 
-- Thanks to [Afrina Khatun maam] for the opportunity to work on this project.
+- Thanks to **Afrina Khatun maam** for the opportunity to work on this project.
 - Special thanks to the team members for their collaboration and support.
 
 ---
