@@ -15,7 +15,7 @@ public class VocabVictory {
     SelectLevel select = new SelectLevel();
     Scanner scanner = new Scanner(System.in);
     public double play() throws IOException {
-        guessedLetters.setLength(0); // current guesses reset korar jnno
+        guessedLetters.setLength(0); // current guesses reset korar jnno ^.^
 
         wordBank= new WordBank(select.levelLocation());
         int index= (int) (Math.random() * wordBank.dictionary.size());
